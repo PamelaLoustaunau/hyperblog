@@ -1,3 +1,5 @@
 Curso de Github.
 
 Creando un repositorio y realizando commit.
+
+Primer commit realizado, ahora haremos cambios sobre el archivo.
